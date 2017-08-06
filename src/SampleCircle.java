@@ -1,4 +1,15 @@
-import java.awt.Point;
+/*------------------------------------------------------------------------*
+ * Copyright (c) 2016 Softbank C&S MD Div, System Planning Office. 
+ *   All rights reserved. This program and the accompanying materials
+ *   are made available under the terms of the Eclipse Public License v1.x
+ *   which accompanies this distribution, and is available at
+ *   http://www.eclipse.org/legal/epl-v10.html
+ * Program Name:	SampleCircle
+ * Contributors:	Naoshi WATANUKI - Initial API and implementation. -
+ * Data Written :	2016.8.30 (Tue.)
+ * Update Written: 	____.__.__
+ *-------------------------------------------------------------------------*/
+/import java.awt.Point;
 //import java.lang.Math;
 import java.util.ArrayList;
 
